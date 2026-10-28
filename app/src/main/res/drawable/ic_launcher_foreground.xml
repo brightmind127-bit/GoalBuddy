@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A round cartoon buddy face with a check mark -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- head -->
+    <path
+        android:fillColor="#FFFFD7B5"
+        android:strokeColor="#FF2D2236"
+        android:strokeWidth="2.5"
+        android:pathData="M54,30 a24,24 0 1,0 0.01,0 Z" />
+    <!-- hair -->
+    <path
+        android:fillColor="#FF5D3A1A"
+        android:pathData="M31,50 C31,28 77,28 77,50 C70,42 62,44 54,40 C46,44 38,42 31,50 Z" />
+    <!-- eyes -->
+    <path android:fillColor="#FF2D2236" android:pathData="M45,56 a3.5,4.5 0 1,0 0.01,0 Z" />
+    <path android:fillColor="#FF2D2236" android:pathData="M63,56 a3.5,4.5 0 1,0 0.01,0 Z" />
+    <!-- smile -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF2D2236"
+        android:strokeLineCap="round"
+        android:strokeWidth="2.5"
+        android:pathData="M46,67 Q54,74 62,67" />
+    <!-- blush -->
+    <path android:fillColor="#88FF8A80" android:pathData="M38,64 a4,2.5 0 1,0 0.01,0 Z" />
+    <path android:fillColor="#88FF8A80" android:pathData="M70,64 a4,2.5 0 1,0 0.01,0 Z" />
+    <!-- check badge -->
+    <path
+        android:fillColor="#FFFFC107"
+        android:strokeColor="#FF2D2236"
+        android:strokeWidth="2"
+        android:pathData="M76,30 a9,9 0 1,0 0.01,0 Z" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FF2D2236"
+        android:strokeLineCap="round"
+        android:strokeWidth="2.5"
+        android:pathData="M72,39 L75,42 L81,35" />
+</vector>
