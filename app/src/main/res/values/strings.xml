@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Goal Buddy</string>
+    <string name="widget_goals_name">Goal Buddy – Goals</string>
+    <string name="widget_buddy_name">Goal Buddy – Avatar</string>
+    <string name="widget_goals_desc">Your goals with checkboxes, tabs for day/week/month/year and your buddy.</string>
+    <string name="widget_buddy_desc">Your avatar with a speech bubble and today\'s progress.</string>
+</resources>
